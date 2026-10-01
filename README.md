@@ -6,7 +6,7 @@ I'm 20, love to build things - currently into IOS development and Agentic AI
 - **Fundimo** - A mobile budgeting application featuring a virtual pet, built with React Native, TypeScript, Supabase, and Rive.
 - **PermitSpark** - Software Development Intern, reviewing pull requests and testing municipal permitting features.
 - **Creative Assistant** - Managing multimedia workflows, audio engineering setups, and production tasks for Rohan Kapur.
-- 
+  
 ## Toolkit
 - **Development:** React Native, Expo, Supabase, Vite, Git.
 - **Creative:** Music production and mixing (Ableton Live, Logic Pro, FL Studio), and DJing
