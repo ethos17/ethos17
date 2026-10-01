@@ -1,6 +1,6 @@
 ## Hi, I'm Diego 👋
 
-I'm 20, love to build things - currently into IOS development and Agentic AI
+I'm a 20 year student, I love to build things - currently into IOS development and Agentic AI as well as Rive animations to supplement my apps
 
 ## Projects & Experience
 - **Fundimo** - A mobile budgeting application featuring a virtual pet, built with React Native, TypeScript, Supabase, and Rive.
