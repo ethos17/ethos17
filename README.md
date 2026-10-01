@@ -17,4 +17,4 @@ When I'm not coding or making music, you can usually find me on the soccer field
 
 ## GitHub Stats
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=ethos17&custom_title=Ma+stats)
-![Top Languages](https://ghstats.dev/api/cards/langs?username=ethos17&theme=dark)](https://ghstats.dev)
+![Top Languages](https://ghstats.dev/api/cards/langs?username=ethos17&theme=dark)
