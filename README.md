@@ -1,6 +1,6 @@
 ## Hi, I'm Diego 👋
 
-I'm a 3rd-year Computer Science major at San Francisco State University. I build applications, dive into systems architecture, and am currently exploring AI agent orchestration.
+I'm 20, love to build things - currently into IOS development and Agentic AI
 
 ## Projects & Experience
 - **Fundimo** - A mobile budgeting application featuring a virtual pet, built with React Native, TypeScript, Supabase, and Rive.
@@ -12,8 +12,9 @@ I'm a 3rd-year Computer Science major at San Francisco State University. I build
 - **Creative:** Music production and mixing (Ableton Live, Logic Pro, FL Studio), DJing, and vectorizing hand-drawn letters in Adobe Illustrator.
 
 ## Off-Screen
-When I'm not coding or making music, you can usually find me playing as a central attacking midfielder on the soccer pitch, playing chess, skateboarding, or reading through Frank Herbert's *Dune* series or *A People's History of the United States*.
+When I'm not coding or making music, you can usually find me on the soccer field, playing chess, skateboarding, or reading through Frank Herbert's *Dune* series or Batman comics and Thrasher mags.
+
 
 ## GitHub Stats
-[![GitHub Stats Card](https://ghstats.dev/api/cards/stats?username=ethos17&theme=dark)](https://ghstats.dev)
-[![Top Languages](https://ghstats.dev/api/cards/langs?username=ethos17&theme=dark)](https://ghstats.dev)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ethos17&custom_title=Ma+stats)
+![Top Languages](https://ghstats.dev/api/cards/langs?username=ethos17&theme=dark)](https://ghstats.dev)
