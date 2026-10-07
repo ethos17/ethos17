@@ -15,6 +15,6 @@ I'm a 20 year student, I love to build things - currently into IOS development a
 When I'm not coding or making music, you can usually find me on the soccer field, playing chess, skateboarding, or reading through Frank Herbert's *Dune* series or Batman comics and Thrasher mags.
 
 
-## GitHub Stats
+## GitHub Stats (Low due to using time to study a language)
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=ethos17&custom_title=Ma+stats)
 
